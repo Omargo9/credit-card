@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Omargo9/credit-card/precache-manifest.f25863b8619fd1cde4189602ac3cad45.js"
+  "/credit-card/./precache-manifest.e64d642ecc571bdee5ea4992091ce4a2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Omargo9/credit-card/index.html", {
+workbox.routing.registerNavigationRoute("/credit-card/./index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

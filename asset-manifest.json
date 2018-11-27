@@ -1,13 +1,13 @@
 {
-  "main.css": "/Omargo9/credit-card/static/css/main.79aec60e.chunk.css",
-  "main.js": "/Omargo9/credit-card/static/js/main.45ae1730.chunk.js",
-  "main.js.map": "/Omargo9/credit-card/static/js/main.45ae1730.chunk.js.map",
-  "static/js/1.20bc491b.chunk.js": "/Omargo9/credit-card/static/js/1.20bc491b.chunk.js",
-  "static/js/1.20bc491b.chunk.js.map": "/Omargo9/credit-card/static/js/1.20bc491b.chunk.js.map",
-  "runtime~main.js": "/Omargo9/credit-card/static/js/runtime~main.e7ecf128.js",
-  "runtime~main.js.map": "/Omargo9/credit-card/static/js/runtime~main.e7ecf128.js.map",
-  "static/css/main.79aec60e.chunk.css.map": "/Omargo9/credit-card/static/css/main.79aec60e.chunk.css.map",
-  "index.html": "/Omargo9/credit-card/index.html",
-  "precache-manifest.f25863b8619fd1cde4189602ac3cad45.js": "/Omargo9/credit-card/precache-manifest.f25863b8619fd1cde4189602ac3cad45.js",
-  "service-worker.js": "/Omargo9/credit-card/service-worker.js"
+  "main.css": "/credit-card/./static/css/main.79aec60e.chunk.css",
+  "main.js": "/credit-card/./static/js/main.062cd02f.chunk.js",
+  "main.js.map": "/credit-card/./static/js/main.062cd02f.chunk.js.map",
+  "static/js/1.20bc491b.chunk.js": "/credit-card/./static/js/1.20bc491b.chunk.js",
+  "static/js/1.20bc491b.chunk.js.map": "/credit-card/./static/js/1.20bc491b.chunk.js.map",
+  "runtime~main.js": "/credit-card/./static/js/runtime~main.4e5aa0f4.js",
+  "runtime~main.js.map": "/credit-card/./static/js/runtime~main.4e5aa0f4.js.map",
+  "static/css/main.79aec60e.chunk.css.map": "/credit-card/./static/css/main.79aec60e.chunk.css.map",
+  "index.html": "/credit-card/./index.html",
+  "precache-manifest.e64d642ecc571bdee5ea4992091ce4a2.js": "/credit-card/./precache-manifest.e64d642ecc571bdee5ea4992091ce4a2.js",
+  "service-worker.js": "/credit-card/./service-worker.js"
 }
