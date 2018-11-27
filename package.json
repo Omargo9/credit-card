@@ -2,7 +2,7 @@
   "name": "credit-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Omargo9/credit-card-.git",
+  "homepage": "http://github.com/Omargo9/credit-card-.git",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
