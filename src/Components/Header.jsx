@@ -3,7 +3,7 @@ class Inputs extends Component {
     constructor () {
         super()
         this.state = {
-          value: '',
+          value:'',
           name:"",
           date:""
           
@@ -24,8 +24,9 @@ class Inputs extends Component {
           })  }       
       }
       changeName (event) {
-        
-        if(event.target.value.length<17 &&  isNaN(event.target.value)){
+       
+        if(event.target.value.length<17 && ! /([1-9])/g.test(event.target.value)){
+          
        this.setState({ 
          
            name:event.target.value
@@ -60,7 +61,7 @@ class Inputs extends Component {
              <div className="card-information">
               <div className="logo-information">
                <div className="master-number">
-                 <span>{(this.state.value.slice(0,4)+" "+this.state.value.slice(4,8)+" "+this.state.value.slice(8,12)+" "+this.state.value.slice(12,16)).padEnd(18,'X')}</span>
+                 <span>{this.state.value.padEnd(16,'X').split('').map((x,i)=>i%4==0?' '+x:x).join('')}</span>
                </div>
 
                <div className="holder-card">
